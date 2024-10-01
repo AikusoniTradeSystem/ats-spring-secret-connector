@@ -1,0 +1,3 @@
+rootProject.name = 'ats-spring-secret-connector'
+include 'vault-connector'
+
